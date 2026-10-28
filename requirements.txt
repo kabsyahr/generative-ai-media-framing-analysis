@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+matplotlib
+wordcloud
+newspaper3k
+Sastrawi
+lxml_html_clean
