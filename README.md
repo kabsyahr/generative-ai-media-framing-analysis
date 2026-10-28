@@ -1,6 +1,6 @@
 # Generative AI in Indonesian Online Media | Text Mining & Framing Analysis
 
-**Academic group project · Mass Communication Theory · Universitas Airlangga · 2024**  
+**Academic group project · Mass Communication Theory**  
 **Focus:** Media analytics · Indonesian text mining · Thematic content analysis · Cross-outlet comparison
 
 ## 1. Project Overview
