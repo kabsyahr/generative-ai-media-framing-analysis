@@ -66,7 +66,19 @@ Six themes were recorded in the group poster:
 | Crime | 2 | 0 | 1 | **3** |
 | **Total** | **74** | **60** | **35** | **169** |
 
-![Theme distribution by outlet](images/theme_distribution_by_outlet.png)
+The charts below present the same poster-reported category counts separately for each outlet. A shared horizontal scale makes the article counts easy to read; the table above provides the full cross-outlet comparison.
+
+**detikcom (74 articles)**
+
+![detikcom article themes](images/theme_distribution_detikcom.png)
+
+**CNBC Indonesia (60 articles)**
+
+![CNBC Indonesia article themes](images/theme_distribution_cnbc_indonesia.png)
+
+**CNN Indonesia (35 articles)**
+
+![CNN Indonesia article themes](images/theme_distribution_cnn_indonesia.png)
 
 **Analytical insights**
 
@@ -168,7 +180,7 @@ The project illustrates how a combined **quantitative and qualitative content-an
 ## 7. Repository Contents
 
 - **[Sample Detik text-mining notebook](notebooks/detik_text_mining_original.ipynb)** — original workflow, with saved cell outputs removed; can be adapted to other news datasets.
-- **[Theme comparison chart](images/theme_distribution_by_outlet.png)** — visualizes the reported three-outlet coded-topic counts.
+- **Theme distribution charts:** [detikcom](images/theme_distribution_detikcom.png) · [CNBC Indonesia](images/theme_distribution_cnbc_indonesia.png) · [CNN Indonesia](images/theme_distribution_cnn_indonesia.png) — historical theme counts shown separately for readability.
 - **[Study notes](reports/STUDY_NOTES.md)** — data provenance, important terminology, and documentation boundaries.
 - **[Python requirements](requirements.txt)** — dependencies associated with the notebook.
 
